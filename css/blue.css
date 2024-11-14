@@ -1,0 +1,17 @@
+body{
+    background: url("../img/cielo.jpg");
+   background-attachment: fixed; /*al hacer scroll se rellena la página */
+}
+#logo{
+  
+    background: #1f87c4;
+   
+}
+#menu ul li:hover{ /*cuando pasemos por encima del elemento con el ratón*/
+    background:#1f87c4 ;
+}
+.button-more{
+  
+    background-color: #1f87c4;
+   
+}
